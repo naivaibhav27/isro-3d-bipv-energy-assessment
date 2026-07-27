@@ -207,3 +207,13 @@ The project automatically generates structured metadata for each building, inclu
 <p align="center">
   <img src="images/Metadata_Generation.png" width="900">
 </p>
+
+---
+
+## 💻 Project Structure
+
+The project is organised into modular components to improve maintainability, scalability, and ease of development. The structure separates preprocessing, analysis, visualization, and utility modules.
+
+<p align="center">
+  <img src="images/Codefiles_structure.png" width="900">
+</p>
