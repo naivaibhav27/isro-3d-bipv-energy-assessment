@@ -50,29 +50,13 @@ The objective was to develop a scalable workflow capable of analysing large coll
 
 ---
 
-# 🔄 Project Workflow
+## 🛰️ Project Workflow
 
-```text
-3D Building Models
-        │
-        ▼
-Geometry Processing
-        │
-        ▼
-Shadow Analysis
-        │
-        ▼
-Solar Irradiance Estimation
-        │
-        ▼
-Energy Potential Calculation
-        │
-        ▼
-Metadata Generation
-        │
-        ▼
-CesiumJS Visualization
-```
+<p align="center">
+  <img src="images/Project-Work_flow.png" width="100%">
+</p>
+
+The workflow begins with the collection of 3D city models and geospatial datasets, followed by metadata extraction, JSON generation, CesiumJS visualization, and solar energy estimation for Building Integrated Photovoltaics (BIPV).
 
 ---
 
