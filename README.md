@@ -53,7 +53,7 @@ The objective was to develop a scalable workflow capable of analysing large coll
 ## 🛰️ Project Workflow
 
 <p align="center">
-  <img src="images/Eight_Buildings_in_Cesium_Without_click" width="100%">
+  <img src="images/Project-Work_flow.png" width="100%">
 </p>
 
 The workflow begins with the collection of 3D city models and geospatial datasets, followed by metadata extraction, JSON generation, CesiumJS visualization, and solar energy estimation for Building Integrated Photovoltaics (BIPV).
@@ -111,6 +111,16 @@ images/
 ```
 
 ---
+
+# Result
+
+### 🏙️ 3D Building Visualization in CesiumJS
+
+The generated 3D city model visualized in CesiumJS after processing GIS data and assigning Building-Integrated Photovoltaic (BIPV) metadata.
+
+<p align="center">
+  <img src="docs/images/Eight_Buildings_in_Cesium_Without_click.png" width="900"/>
+</p>
 
 # 🔒 Source Code Availability
 
