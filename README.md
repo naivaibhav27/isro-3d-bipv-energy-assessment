@@ -196,3 +196,22 @@ This workflow illustrates the complete pipeline followed during the project, fro
 <p align="center">
 <img src="images/Project-Work_flow.png" width="900">
 </p>
+
+## 🏗️ System Architecture
+
+...
+
+<p align="center">
+<img src="images/Project_Chart.png" width="900">
+</p>
+
+
+---
+
+## 📋 Metadata Generation
+
+The project automatically generates structured metadata for each building, including geometric information and attributes required for solar energy analysis and visualization.
+
+<p align="center">
+  <img src="images/Metadata_Generation.png" width="900">
+</p>
