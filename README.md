@@ -177,3 +177,12 @@ I sincerely thank the mentors, researchers, and technical team at the **Space Ap
 ---
 
 ## ⭐ If you found this repository interesting, consider giving it a star!
+---
+
+# 🖼️ Project Gallery
+
+## 🏙️ 3D Building Visualization
+
+<p align="center">
+<img src="images/Eight_Buildings_in_Cesium_Without_click.png" width="900">
+</p>
