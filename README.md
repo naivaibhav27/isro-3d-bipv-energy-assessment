@@ -186,3 +186,13 @@ I sincerely thank the mentors, researchers, and technical team at the **Space Ap
 <p align="center">
 <img src="images/Eight_Buildings_in_Cesium_Without_click.png" width="900">
 </p>
+
+---
+
+## 🔄 Project Workflow
+
+This workflow illustrates the complete pipeline followed during the project, from processing 3D building models to estimating solar energy potential and preparing outputs for visualization.
+
+<p align="center">
+<img src="images/Project-Work_flow.png" width="900">
+</p>
