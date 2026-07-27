@@ -119,7 +119,7 @@ images/
 The generated 3D city model visualized in CesiumJS after processing GIS data and assigning Building-Integrated Photovoltaic (BIPV) metadata.
 
 <p align="center">
-  <img src="docs/images/Eight_Buildings_in_Cesium_Without_click.png" width="900"/>
+  <img src="images/Eight_Buildings_in_Cesium_Without_click.png" width="900">
 </p>
 
 # 🔒 Source Code Availability
